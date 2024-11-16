@@ -6,4 +6,4 @@
 
 ## 使用方法
 
-进入该网址：[https://xiaoxiupeng.github.io/Domain_redirection](https://xiaoxiupeng.github.io/Domain_redirection)
+进入该网址：[https://xiaoxiupeng.github.io](https://xiaoxiupeng.github.io)
