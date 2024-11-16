@@ -6,4 +6,4 @@
 
 ## 使用方法
 
-进入该网址：[https://xiaoxiupeng.github.io/d_r](https://xiaoxiupeng.github.io/d_r)
+进入该网址：[https://xiaoxiupeng.github.io/dr](https://xiaoxiupeng.github.io/dr)
